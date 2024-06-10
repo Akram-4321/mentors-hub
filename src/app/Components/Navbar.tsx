@@ -41,7 +41,7 @@ export default function Navbar() {
           <li><a>Solutions</a></li>
         </ul>
       </div>
-      <Link href={"/"} className="btn btn-ghost text-xl">Mentors School</Link>
+      <Link href={"/"} className="btn btn-ghost text-xl">@MentorsConnect</Link>
     </div>
     <div className="navbar-center hidden lg:flex">
       <ul className="menu menu-horizontal px-1">
